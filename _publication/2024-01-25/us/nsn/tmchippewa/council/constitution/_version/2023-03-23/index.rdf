@@ -1,0 +1,629 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="./_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-01-25</dcterms:available>
+    <dcterms:creator xml:lang="en">Turtle Mountain Band of Chippewa</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="us/nsn/tmchippewa/council/constitution/us/nsn/tmchippewa/council/adopted/const.pdf"/>
+    <dcterms:isVersionOf rdf:resource="./_publication/2024-01-25//us/nsn/tmchippewa/council/constitution"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Article I - Name(§§ 1 – 1)
+Article II - Jurisdiction(§§ 1 – 2)
+Article III - Membership(§§ 1 – 3)
+Article IV - Governing Body(§§ 1 – 4)
+Article V - Nominations and Elections(§§ 1 – 7)
+Article VI - Officers and Their Duties(§§ 1 – 3)
+Article VII - Tribal Council Procedures(§§ 1 – 6)
+Article VIII - Referendum and Recall(§§ 1 – 3)
+Article IX - Powers of the Tribal Council(§§ 1 – 14)
+Article X - Future and Reserved Powers(§§ 1 – 2)
+Article XI - Manner of Review(§§ 1 – 3)
+Article XII - Adoption(§§ 1 – 1)
+Article XIII - Amendment(§§ 1 – 2)
+Article XIV - Separation of Powers(§§ 1 – 8)
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Constitution and ByLaws of the Turtle Mountain Band of Chippewa Indians North Dakota</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Constitution"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2024-01-25/2023-03-23]: Turtle Mountain Constitution and By-laws</rdfs:label>
+    <oll:codifiedDate>2023-03-23</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-08-27</oll:dateEffective>
+    <oll:docId>Turtle Mountain Constitution and By-laws</oll:docId>
+    <oll:hasChanges rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/_changes"/>
+    <oll:isPartOfPublication rdf:resource="./_publication/2024-01-25"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution">
+    <oll:cite xml:lang="en"/>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/I">
+    <oll:cite xml:lang="en">Article I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/I</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/I/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|I|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/I/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/II">
+    <oll:cite xml:lang="en">Article II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|II|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/II</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/II/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|II|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/II/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/II/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|II|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/II/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/III">
+    <oll:cite xml:lang="en">Article III</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|III|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/III</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/III/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|III|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/III/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/III/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|III|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/III/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/III/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|III|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/III/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IV">
+    <oll:cite xml:lang="en">Article IV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|IV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/IV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IV/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|IV|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/IV/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IV/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|IV|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/IV/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IV/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|IV|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/IV/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IV/4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|IV|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/IV/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX">
+    <oll:cite xml:lang="en">Article IX</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|IX|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/IX</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|IX|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/IX/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/10">
+    <oll:cite xml:lang="en">Section 10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|IX|10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/IX/10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/11">
+    <oll:cite xml:lang="en">Section 11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|IX|11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/IX/11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/12">
+    <oll:cite xml:lang="en">Section 12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|IX|12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/IX/12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/13">
+    <oll:cite xml:lang="en">Section 13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|IX|13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/IX/13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/14">
+    <oll:cite xml:lang="en">Section 14</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|IX|14|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/IX/14</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|IX|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/IX/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|IX|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/IX/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|IX|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/IX/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/5">
+    <oll:cite xml:lang="en">Section 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|IX|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/IX/5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/6">
+    <oll:cite xml:lang="en">Section 6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|IX|6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/IX/6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/7">
+    <oll:cite xml:lang="en">Section 7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|IX|7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/IX/7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/8">
+    <oll:cite xml:lang="en">Section 8</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|IX|8|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/IX/8</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/9">
+    <oll:cite xml:lang="en">Section 9</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|IX|9|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/IX/9</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/V">
+    <oll:cite xml:lang="en">Article V</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|V|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/V</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/V/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|V|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/V/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/V/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|V|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/V/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/V/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|V|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/V/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/V/4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|V|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/V/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/V/5">
+    <oll:cite xml:lang="en">Section 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|V|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/V/5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/V/6">
+    <oll:cite xml:lang="en">Section 6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|V|6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/V/6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/V/7">
+    <oll:cite xml:lang="en">Section 7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|V|7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/V/7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VI">
+    <oll:cite xml:lang="en">Article VI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|VI|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/VI</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VI/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|VI|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/VI/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VI/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|VI|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/VI/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VI/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|VI|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/VI/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VII">
+    <oll:cite xml:lang="en">Article VII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|VII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/VII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VII/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|VII|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/VII/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VII/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|VII|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/VII/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VII/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|VII|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/VII/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VII/4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|VII|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/VII/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VII/5">
+    <oll:cite xml:lang="en">Section 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|VII|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/VII/5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VII/6">
+    <oll:cite xml:lang="en">Section 6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|VII|6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/VII/6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VIII">
+    <oll:cite xml:lang="en">Article VIII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|VIII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/VIII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VIII/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|VIII|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/VIII/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VIII/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|VIII|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/VIII/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VIII/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|VIII|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/VIII/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/X">
+    <oll:cite xml:lang="en">Article X</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|X|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/X</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/X/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|X|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/X/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/X/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|X|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/X/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XI">
+    <oll:cite xml:lang="en">Article XI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|XI|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/XI</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XI/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|XI|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/XI/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XI/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|XI|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/XI/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XI/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|XI|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/XI/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XII">
+    <oll:cite xml:lang="en">Article XII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|XII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/XII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XII/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|XII|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/XII/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XIII">
+    <oll:cite xml:lang="en">Article XIII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|XIII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/XIII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XIII/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|XIII|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/XIII/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XIII/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|XIII|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/XIII/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XIV">
+    <oll:cite xml:lang="en">Article XIV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|XIV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/XIV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XIV/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|XIV|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/XIV/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XIV/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|XIV|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/XIV/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XIV/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|XIV|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/XIV/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XIV/4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|XIV|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/XIV/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XIV/5">
+    <oll:cite xml:lang="en">Section 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|XIV|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/XIV/5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XIV/6">
+    <oll:cite xml:lang="en">Section 6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|XIV|6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/XIV/6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XIV/7">
+    <oll:cite xml:lang="en">Section 7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|XIV|7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/XIV/7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XIV/8">
+    <oll:cite xml:lang="en">Section 8</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Constitution and By-laws|XIV|8|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/constitution/XIV/8</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/_changes">
+    <rdf:_10 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/III/3"/>
+    <rdf:_11 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IV"/>
+    <rdf:_12 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IV/1"/>
+    <rdf:_13 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IV/2"/>
+    <rdf:_14 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IV/3"/>
+    <rdf:_15 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IV/4"/>
+    <rdf:_16 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX"/>
+    <rdf:_17 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/1"/>
+    <rdf:_18 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/10"/>
+    <rdf:_19 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/11"/>
+    <rdf:_1 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution"/>
+    <rdf:_20 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/12"/>
+    <rdf:_21 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/13"/>
+    <rdf:_22 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/14"/>
+    <rdf:_23 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/2"/>
+    <rdf:_24 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/3"/>
+    <rdf:_25 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/4"/>
+    <rdf:_26 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/5"/>
+    <rdf:_27 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/6"/>
+    <rdf:_28 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/7"/>
+    <rdf:_29 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/8"/>
+    <rdf:_2 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/I"/>
+    <rdf:_30 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/IX/9"/>
+    <rdf:_31 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/V"/>
+    <rdf:_32 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/V/1"/>
+    <rdf:_33 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/V/2"/>
+    <rdf:_34 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/V/3"/>
+    <rdf:_35 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/V/4"/>
+    <rdf:_36 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/V/5"/>
+    <rdf:_37 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/V/6"/>
+    <rdf:_38 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/V/7"/>
+    <rdf:_39 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VI"/>
+    <rdf:_3 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/I/1"/>
+    <rdf:_40 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VI/1"/>
+    <rdf:_41 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VI/2"/>
+    <rdf:_42 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VI/3"/>
+    <rdf:_43 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VII"/>
+    <rdf:_44 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VII/1"/>
+    <rdf:_45 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VII/2"/>
+    <rdf:_46 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VII/3"/>
+    <rdf:_47 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VII/4"/>
+    <rdf:_48 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VII/5"/>
+    <rdf:_49 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VII/6"/>
+    <rdf:_4 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/II"/>
+    <rdf:_50 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VIII"/>
+    <rdf:_51 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VIII/1"/>
+    <rdf:_52 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VIII/2"/>
+    <rdf:_53 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/VIII/3"/>
+    <rdf:_54 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/X"/>
+    <rdf:_55 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/X/1"/>
+    <rdf:_56 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/X/2"/>
+    <rdf:_57 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XI"/>
+    <rdf:_58 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XI/1"/>
+    <rdf:_59 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XI/2"/>
+    <rdf:_5 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/II/1"/>
+    <rdf:_60 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XI/3"/>
+    <rdf:_61 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XII"/>
+    <rdf:_62 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XII/1"/>
+    <rdf:_63 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XIII"/>
+    <rdf:_64 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XIII/1"/>
+    <rdf:_65 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XIII/2"/>
+    <rdf:_66 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XIV"/>
+    <rdf:_67 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XIV/1"/>
+    <rdf:_68 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XIV/2"/>
+    <rdf:_69 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XIV/3"/>
+    <rdf:_6 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/II/2"/>
+    <rdf:_70 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XIV/4"/>
+    <rdf:_71 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XIV/5"/>
+    <rdf:_72 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XIV/6"/>
+    <rdf:_73 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XIV/7"/>
+    <rdf:_74 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/XIV/8"/>
+    <rdf:_7 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/III"/>
+    <rdf:_8 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/III/1"/>
+    <rdf:_9 rdf:resource="_publication/2024-01-25/_date/2023-03-23/us/nsn/tmchippewa/council/constitution/III/2"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

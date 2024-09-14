@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2023",
+      "url": "/us/nsn/tmchippewa/council/resolutions/2023",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2023|",
+      "docs_changes": {
+        "Turtle Mountain Band of Chippewa Indians Res. No. 616-08-23": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 616-08-23",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2023/616-08-23",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 616-08-23|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2023|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2024-01-25",
+  "codified_date": "2023-08-24",
+  "reasons": {
+    "Turtle Mountain Band of Chippewa Indians Res. No. 616-08-23": [
+      "created"
+    ]
+  }
+}
