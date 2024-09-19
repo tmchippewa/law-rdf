@@ -1,7 +1,7 @@
 <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-  <rdf:Description rdf:about="../_publication/2023-07-31/us/nsn/tmchippewa/council/resolutions/2023/218-03-23">
-    <dcterms:isVersionOf rdf:resource="../us/nsn/tmchippewa/council/resolutions/2023/218-03-23"/>
+  <rdf:Description rdf:about="https://law.tmchippewa.com/_publication/2023-07-31/us/nsn/tmchippewa/council/resolutions/2023/218-03-23">
+    <dcterms:isVersionOf rdf:resource="https://law.tmchippewa.com/us/nsn/tmchippewa/council/resolutions/2023/218-03-23"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
-    <oll:isPartOfPublication rdf:resource="./_publication/2023-07-31"/>
+    <oll:isPartOfPublication rdf:resource="https://law.tmchippewa.com/_publication/2023-07-31"/>
   </rdf:Description>
 </rdf:RDF>
