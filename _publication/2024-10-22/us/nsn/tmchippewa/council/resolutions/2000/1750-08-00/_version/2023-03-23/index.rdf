@@ -1,0 +1,19 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2000/1750-08-00">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-22</dcterms:available>
+    <dcterms:creator xml:lang="en">Turtle Mountain Band of Chippewa</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.tmchippewa.com/us/nsn/tmchippewa/council/resolutions/2000/1750-08-00/us/nsn/tmchippewa/council/resolutions/2000/adopted/1750-08-00.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22/us/nsn/tmchippewa/council/resolutions/2000/1750-08-00"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Resolution Number TMBC1750-08-00 of the Duly Elected and Certified Governing Body of the Turtle Mountain Band of Chippewa Indians</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+    <rdfs:label xml:lang="en">[2024-10-22/2023-03-23]: Turtle Mountain Band of Chippewa Indians Res. No. 1750-08-00</rdfs:label>
+    <oll:codifiedDate>2023-03-23</oll:codifiedDate>
+    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-08-03</oll:dateAdopted>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-08-03</oll:dateEffective>
+    <oll:docId>Turtle Mountain Band of Chippewa Indians Res. No. 1750-08-00</oll:docId>
+    <oll:isPartOfPublication rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22"/>
+    <oll:number>1750-08-00</oll:number>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,30 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/policies/personnel_policy">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-22</dcterms:available>
+    <dcterms:creator xml:lang="en">Turtle Mountain Band of Chippewa</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.tmchippewa.com/us/nsn/tmchippewa/council/policies/personnel_policy/us/nsn/tmchippewa/council/policies/tribal_employee_policy_and_procedures_manual_2022.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22/us/nsn/tmchippewa/council/policies/personnel_policy"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Chapter 1 Statement of Purpose and Policies
+Chapter 2 Personnel Selection and Hiring Practices
+Chapter 3 Terms and Conditions of Employment
+Chapter 4 Compensation and Pay
+Chapter 5 Standard Work Hours and Holidays
+Chapter 6 Leave
+Chapter 7 Resignation, Termination and Layoffs
+Chapter 8 Non-Disclosure, Employee Conduct, Disciplinary Actions and Employee Grievances
+Chapter 9 Performance Appraisals and Review
+Chapter 10 Personnel File
+Chapter 11 Drug and Alcohol Policy
+Chapter 12 Sexual Harassment Policy/Other Forms of Harassment
+Chapter 13 Other Polices
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Turtle Mountain Band of Chippewa Indians Tribal Employee Policy and Procedures Manual 2022.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2024-10-22/2023-03-23]: Turtle Mountain Band of Chippewa Indians Tribal Employee Policy and Procedures Manual 2022</rdfs:label>
+    <oll:codifiedDate>2023-03-23</oll:codifiedDate>
+    <oll:docId>Turtle Mountain Band of Chippewa Indians Tribal Employee Policy and Procedures Manual 2022</oll:docId>
+    <oll:isPartOfPublication rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,15 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/1994">
+    <dcterms:isVersionOf rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22/us/nsn/tmchippewa/council/resolutions/1994"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#CollectionVersion"/>
+    <rdfs:label xml:lang="en">1994 Resolutions</rdfs:label>
+    <oll:codifiedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-03-23</oll:codifiedDate>
+    <oll:hasElements rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/1994/_elements"/>
+    <oll:isPartOfPublication rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/1994/_elements">
+    <rdf:_1 xml:lang="en">1994 Resolutions</rdf:_1>
+    <rdf:_2 rdf:resource="https://law.tmchippewa.com/us/nsn/tmchippewa/council/resolutions/1994/5619-04-94"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
+</rdf:RDF>
