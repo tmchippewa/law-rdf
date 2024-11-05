@@ -4,8 +4,26 @@
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#CollectionVersion"/>
     <rdfs:label xml:lang="en">2020 Resolutions</rdfs:label>
     <oll:codifiedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-03-23</oll:codifiedDate>
+    <oll:hasChanges rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2020/_changes"/>
     <oll:hasElements rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2020/_elements"/>
     <oll:isPartOfPublication rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22"/>
+    <oll:libraryMaterializedPath xml:lang="en">tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2020|</oll:libraryMaterializedPath>
+    <oll:name xml:lang="en">2020</oll:name>
+    <oll:ptag xml:lang="en">collection</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/resolutions/2020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2020/_changes">
+    <rdf:_1 rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2020/1053-06-20"/>
+    <rdf:_2 rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2020/1144-08-20"/>
+    <rdf:_3 rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2020/1146-08-20"/>
+    <rdf:_4 rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2020/1147-08-20"/>
+    <rdf:_5 rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2020/1150-08-20"/>
+    <rdf:_6 rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2020/1151-08-20"/>
+    <rdf:_7 rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2020/1360-10-20"/>
+    <rdf:_8 rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2020/841-02-20"/>
+    <rdf:_9 rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2020/855-03-20"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2020/_elements">
     <rdf:_10 rdf:resource="https://law.tmchippewa.com/us/nsn/tmchippewa/council/resolutions/2020/841-02-20"/>

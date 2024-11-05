@@ -4,8 +4,22 @@
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#CollectionVersion"/>
     <rdfs:label xml:lang="en">2019 Resolutions</rdfs:label>
     <oll:codifiedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-03-23</oll:codifiedDate>
+    <oll:hasChanges rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2019/_changes"/>
     <oll:hasElements rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2019/_elements"/>
     <oll:isPartOfPublication rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22"/>
+    <oll:libraryMaterializedPath xml:lang="en">tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2019|</oll:libraryMaterializedPath>
+    <oll:name xml:lang="en">2019</oll:name>
+    <oll:ptag xml:lang="en">collection</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/resolutions/2019</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2019/_changes">
+    <rdf:_1 rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2019/235-04-19"/>
+    <rdf:_2 rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2019/294-05-19"/>
+    <rdf:_3 rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2019/338-06-19"/>
+    <rdf:_4 rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2019/536-10-19"/>
+    <rdf:_5 rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2019/679-12-19"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2019/_elements">
     <rdf:_1 xml:lang="en">2019 Resolutions</rdf:_1>

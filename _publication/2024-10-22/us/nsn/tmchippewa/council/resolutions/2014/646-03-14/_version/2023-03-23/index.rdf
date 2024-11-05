@@ -9,11 +9,21 @@
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
     <rdfs:label xml:lang="en">[2024-10-22/2023-03-23]: Turtle Mountain Band of Chippewa Indians Res. No. 646-03-14</rdfs:label>
+    <oll:cite xml:lang="en"/>
     <oll:codifiedDate>2023-03-23</oll:codifiedDate>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-12</oll:dateAdopted>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-24</oll:dateEffective>
     <oll:docId>Turtle Mountain Band of Chippewa Indians Res. No. 646-03-14</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Turtle Mountain Band of Chippewa Indians Res. No. 646-03-14|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2014/646-03-14/_changes"/>
     <oll:isPartOfPublication rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22"/>
     <oll:number>646-03-14</oll:number>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/resolutions/2014/646-03-14</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2014/646-03-14/_changes">
+    <rdf:_1 rdf:resource="https://law.tmchippewa.com/_publication/2024-10-22/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2014/646-03-14"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
   </rdf:Description>
 </rdf:RDF>
