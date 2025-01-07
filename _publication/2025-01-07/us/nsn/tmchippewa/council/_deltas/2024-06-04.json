@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|2.14.010",
+      "ptag": "section",
+      "cite": "Section 2.14.010",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/2.14.010",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|2|2.14|2.14.010|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|2.14.020",
+      "ptag": "section",
+      "cite": "Section 2.14.020",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/2.14.020",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|2|2.14|2.14.020|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|2.14.050",
+      "ptag": "section",
+      "cite": "Section 2.14.050",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/2.14.050",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|2|2.14|2.14.050|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|2.14.060",
+      "ptag": "section",
+      "cite": "Section 2.14.060",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/2.14.060",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|2|2.14|2.14.060|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|2.14.070",
+      "ptag": "section",
+      "cite": "Section 2.14.070",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/2.14.070",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|2|2.14|2.14.070|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1277-05-24",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1277-05-24",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1277-05-24|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-01-07",
+  "codified_date": "2024-06-04",
+  "reasons": {
+    "Turtle Mountain Band of Chippewa Indians Res. No. 1277-05-24": [
+      "effective"
+    ]
+  }
+}
