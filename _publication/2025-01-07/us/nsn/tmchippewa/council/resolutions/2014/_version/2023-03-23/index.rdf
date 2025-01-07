@@ -1,0 +1,33 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.tmchippewa.com/_publication/2025-01-07/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2014">
+    <dcterms:isVersionOf rdf:resource="https://law.tmchippewa.com/_publication/2025-01-07/us/nsn/tmchippewa/council/resolutions/2014"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#CollectionVersion"/>
+    <rdfs:label xml:lang="en">2014 Resolutions</rdfs:label>
+    <oll:codifiedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-03-23</oll:codifiedDate>
+    <oll:hasChanges rdf:resource="https://law.tmchippewa.com/_publication/2025-01-07/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2014/_changes"/>
+    <oll:hasElements rdf:resource="https://law.tmchippewa.com/_publication/2025-01-07/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2014/_elements"/>
+    <oll:isPartOfPublication rdf:resource="https://law.tmchippewa.com/_publication/2025-01-07"/>
+    <oll:libraryMaterializedPath xml:lang="en">tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2014|</oll:libraryMaterializedPath>
+    <oll:name xml:lang="en">2014</oll:name>
+    <oll:ptag xml:lang="en">collection</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/resolutions/2014</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.tmchippewa.com/_publication/2025-01-07/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2014/_changes">
+    <rdf:_1 rdf:resource="https://law.tmchippewa.com/_publication/2025-01-07/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2014/1043-12-14"/>
+    <rdf:_2 rdf:resource="https://law.tmchippewa.com/_publication/2025-01-07/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2014/620-02-14"/>
+    <rdf:_3 rdf:resource="https://law.tmchippewa.com/_publication/2025-01-07/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2014/646-03-14"/>
+    <rdf:_4 rdf:resource="https://law.tmchippewa.com/_publication/2025-01-07/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2014/916-09-14"/>
+    <rdf:_5 rdf:resource="https://law.tmchippewa.com/_publication/2025-01-07/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2014/917-09-14"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.tmchippewa.com/_publication/2025-01-07/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2014/_elements">
+    <rdf:_1 xml:lang="en">2014 Resolutions</rdf:_1>
+    <rdf:_2 rdf:resource="https://law.tmchippewa.com/us/nsn/tmchippewa/council/resolutions/2014/1043-12-14"/>
+    <rdf:_3 rdf:resource="https://law.tmchippewa.com/us/nsn/tmchippewa/council/resolutions/2014/917-09-14"/>
+    <rdf:_4 rdf:resource="https://law.tmchippewa.com/us/nsn/tmchippewa/council/resolutions/2014/916-09-14"/>
+    <rdf:_5 rdf:resource="https://law.tmchippewa.com/us/nsn/tmchippewa/council/resolutions/2014/646-03-14"/>
+    <rdf:_6 rdf:resource="https://law.tmchippewa.com/us/nsn/tmchippewa/council/resolutions/2014/620-02-14"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
+</rdf:RDF>
