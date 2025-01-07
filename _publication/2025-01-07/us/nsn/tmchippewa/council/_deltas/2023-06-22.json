@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 389-05-23",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2023/389-05-23",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 389-05-23|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2023|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-01-07",
+  "codified_date": "2023-06-22",
+  "reasons": {
+    "Turtle Mountain Band of Chippewa Indians Res. No. 389-05-23": [
+      "effective"
+    ]
+  }
+}
