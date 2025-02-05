@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2023",
+      "url": "/us/nsn/tmchippewa/council/resolutions/2023",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2023|",
+      "docs_changes": {
+        "Turtle Mountain Band of Chippewa Indians Res. No. 443-06-23": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 443-06-23",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2023/443-06-23",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 443-06-23|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 443-06-23",
+      "path": "\u00a71",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2023/443-06-23#1",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 443-06-23|1|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 443-06-23",
+      "path": "\u00a72",
+      "ptag": "section",
+      "cite": "Section 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2023/443-06-23#2",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 443-06-23|2|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 443-06-23",
+      "path": "\u00a73",
+      "ptag": "section",
+      "cite": "Section 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2023/443-06-23#3",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 443-06-23|3|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2023|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-02-05.2025-02-05",
+  "codified_date": "2023-06-15",
+  "reasons": {
+    "Turtle Mountain Band of Chippewa Indians Res. No. 443-06-23": [
+      "created"
+    ]
+  }
+}
