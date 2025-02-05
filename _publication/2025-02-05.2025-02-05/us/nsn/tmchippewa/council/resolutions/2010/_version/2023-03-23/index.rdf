@@ -1,0 +1,31 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.tmchippewa.com/_publication/2025-02-05.2025-02-05/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2010">
+    <dcterms:isVersionOf rdf:resource="https://law.tmchippewa.com/_publication/2025-02-05.2025-02-05/us/nsn/tmchippewa/council/resolutions/2010"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#CollectionVersion"/>
+    <rdfs:label xml:lang="en">2010 Resolutions</rdfs:label>
+    <oll:codifiedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-03-23</oll:codifiedDate>
+    <oll:hasChanges rdf:resource="https://law.tmchippewa.com/_publication/2025-02-05.2025-02-05/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2010/_changes"/>
+    <oll:hasElements rdf:resource="https://law.tmchippewa.com/_publication/2025-02-05.2025-02-05/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2010/_elements"/>
+    <oll:isPartOfPublication rdf:resource="https://law.tmchippewa.com/_publication/2025-02-05.2025-02-05"/>
+    <oll:libraryMaterializedPath xml:lang="en">tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2010|</oll:libraryMaterializedPath>
+    <oll:name xml:lang="en">2010</oll:name>
+    <oll:ptag xml:lang="en">collection</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/tmchippewa/council/resolutions/2010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.tmchippewa.com/_publication/2025-02-05.2025-02-05/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2010/_changes">
+    <rdf:_1 rdf:resource="https://law.tmchippewa.com/_publication/2025-02-05.2025-02-05/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2010/741-05-10"/>
+    <rdf:_2 rdf:resource="https://law.tmchippewa.com/_publication/2025-02-05.2025-02-05/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2010/768-06-10"/>
+    <rdf:_3 rdf:resource="https://law.tmchippewa.com/_publication/2025-02-05.2025-02-05/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2010/863-08-10"/>
+    <rdf:_4 rdf:resource="https://law.tmchippewa.com/_publication/2025-02-05.2025-02-05/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2010/958-10-10"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.tmchippewa.com/_publication/2025-02-05.2025-02-05/_date/2023-03-23/us/nsn/tmchippewa/council/resolutions/2010/_elements">
+    <rdf:_1 xml:lang="en">2010 Resolutions</rdf:_1>
+    <rdf:_2 rdf:resource="https://law.tmchippewa.com/us/nsn/tmchippewa/council/resolutions/2010/958-10-10"/>
+    <rdf:_3 rdf:resource="https://law.tmchippewa.com/us/nsn/tmchippewa/council/resolutions/2010/863-08-10"/>
+    <rdf:_4 rdf:resource="https://law.tmchippewa.com/us/nsn/tmchippewa/council/resolutions/2010/768-06-10"/>
+    <rdf:_5 rdf:resource="https://law.tmchippewa.com/us/nsn/tmchippewa/council/resolutions/2010/741-05-10"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
+</rdf:RDF>
