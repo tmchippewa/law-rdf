@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|5.02.050",
+      "ptag": "section",
+      "cite": "Section 5.02.050",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/5.02.050",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|5|5.02|5.02.050|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1166-04-24",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1166-04-24",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1166-04-24|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-02-05.2025-02-05",
+  "codified_date": "2024-05-06",
+  "reasons": {
+    "Turtle Mountain Band of Chippewa Indians Res. No. 1166-04-24": [
+      "effective"
+    ]
+  }
+}
