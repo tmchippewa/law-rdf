@@ -1,0 +1,535 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2024",
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "docs_changes": {
+        "Turtle Mountain Band of Chippewa Indians Res. No. 1384-08-24": "Element added",
+        "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1384-08-24",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1384-08-24",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1384-08-24|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law",
+      "ptag": "attachment",
+      "cite": "law",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|1",
+      "ptag": "container",
+      "cite": "law, Part 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/1",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|1|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|1|101",
+      "ptag": "section",
+      "cite": "Section 101",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/1/101",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|1|101|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|1|102",
+      "ptag": "section",
+      "cite": "Section 102",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/1/102",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|1|102|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|2",
+      "ptag": "container",
+      "cite": "law, Part 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/2",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|2|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|2|103",
+      "ptag": "section",
+      "cite": "Section 103",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/2/103",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|2|103|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|3",
+      "ptag": "container",
+      "cite": "law, Part 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/3",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|3|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|3|104",
+      "ptag": "section",
+      "cite": "Section 104",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/3/104",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|3|104|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|3|105",
+      "ptag": "section",
+      "cite": "Section 105",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/3/105",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|3|105|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|3|106",
+      "ptag": "section",
+      "cite": "Section 106",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/3/106",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|3|106|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|3|107",
+      "ptag": "section",
+      "cite": "Section 107",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/3/107",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|3|107|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|3|108",
+      "ptag": "section",
+      "cite": "Section 108",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/3/108",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|3|108|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|4",
+      "ptag": "container",
+      "cite": "law, Part 4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/4",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|4|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|4|109",
+      "ptag": "section",
+      "cite": "Section 109",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/4/109",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|4|109|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|4|110",
+      "ptag": "section",
+      "cite": "Section 110",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/4/110",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|4|110|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|4|111",
+      "ptag": "section",
+      "cite": "Section 111",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/4/111",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|4|111|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|4|112",
+      "ptag": "section",
+      "cite": "Section 112",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/4/112",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|4|112|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|4|113",
+      "ptag": "section",
+      "cite": "Section 113",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/4/113",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|4|113|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|4|114",
+      "ptag": "section",
+      "cite": "Section 114",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/4/114",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|4|114|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|4|115",
+      "ptag": "section",
+      "cite": "Section 115",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/4/115",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|4|115|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|4|116",
+      "ptag": "section",
+      "cite": "Section 116",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/4/116",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|4|116|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|5",
+      "ptag": "container",
+      "cite": "law, Part 5",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/5",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|5|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|5|117",
+      "ptag": "section",
+      "cite": "Section 117",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/5/117",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|5|117|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|5|118",
+      "ptag": "section",
+      "cite": "Section 118",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/5/118",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|5|118|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|5|119",
+      "ptag": "section",
+      "cite": "Section 119",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/5/119",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|5|119|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|6",
+      "ptag": "container",
+      "cite": "law, Part 6",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/6",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|6|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|6|120",
+      "ptag": "section",
+      "cite": "Section 120",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/6/120",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|6|120|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|6|121",
+      "ptag": "section",
+      "cite": "Section 121",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/6/121",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|6|121|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|7",
+      "ptag": "container",
+      "cite": "law, Part 7",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/7",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|7|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|7|122",
+      "ptag": "section",
+      "cite": "Section 122",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/7/122",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|7|122|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|7|123",
+      "ptag": "section",
+      "cite": "Section 123",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/7/123",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|7|123|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|8",
+      "ptag": "container",
+      "cite": "law, Part 8",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/8",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|8|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|8|124",
+      "ptag": "section",
+      "cite": "Section 124",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/8/124",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|8|124|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|8|125",
+      "ptag": "section",
+      "cite": "Section 125",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/8/125",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|8|125|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|8|126",
+      "ptag": "section",
+      "cite": "Section 126",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/8/126",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|8|126|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|8|127",
+      "ptag": "section",
+      "cite": "Section 127",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/8/127",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|8|127|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24",
+      "path": "attachments|law|8|128",
+      "ptag": "section",
+      "cite": "Section 128",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1385-08-24#attachments/law/8/128",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24|law|8|128|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-04-01",
+  "codified_date": "2024-08-01",
+  "reasons": {
+    "Turtle Mountain Band of Chippewa Indians Res. No. 1384-08-24": [
+      "created"
+    ],
+    "Turtle Mountain Band of Chippewa Indians Res. No. 1385-08-24": [
+      "created"
+    ]
+  }
+}
