@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|38.02.060",
+      "ptag": "section",
+      "cite": "Section 38.02.060",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/38.02.060",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|38|38.02|38.02.060|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|38.02.280",
+      "ptag": "section",
+      "cite": "Section 38.02.280",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/38.02.280",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|38|38.02|38.02.280|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 1523-09-24",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2024/1523-09-24",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 1523-09-24|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2024|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-04-01",
+  "codified_date": "2024-10-01",
+  "reasons": {
+    "Turtle Mountain Band of Chippewa Indians Res. No. 1523-09-24": [
+      "effective"
+    ]
+  }
+}
