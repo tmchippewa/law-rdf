@@ -1,0 +1,401 @@
+{
+  "data": [
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10",
+      "ptag": "container",
+      "cite": "Title 10",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.01.010",
+      "ptag": "section",
+      "cite": "Section 10.01.010",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.01.010",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.01|10.01.010|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.01.020",
+      "ptag": "section",
+      "cite": "Section 10.01.020",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.01.020",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.01|10.01.020|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.01.030",
+      "ptag": "section",
+      "cite": "Section 10.01.030",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.01.030",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.01|10.01.030|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.01.040",
+      "ptag": "section",
+      "cite": "Section 10.01.040",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.01.040",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.01|10.01.040|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.01.050",
+      "ptag": "section",
+      "cite": "Section 10.01.050",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.01.050",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.01|10.01.050|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.01.060",
+      "ptag": "section",
+      "cite": "Section 10.01.060",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.01.060",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.01|10.01.060|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.01.070",
+      "ptag": "section",
+      "cite": "Section 10.01.070",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.01.070",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.01|10.01.070|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.01.080",
+      "ptag": "section",
+      "cite": "Section 10.01.080",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.01.080",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.01|10.01.080|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.01.090",
+      "ptag": "section",
+      "cite": "Section 10.01.090",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.01.090",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.01|10.01.090|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.01.100",
+      "ptag": "section",
+      "cite": "Section 10.01.100",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.01.100",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.01|10.01.100|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.02.010",
+      "ptag": "section",
+      "cite": "Section 10.02.010",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.02.010",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.02|10.02.010|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.02.020",
+      "ptag": "section",
+      "cite": "Section 10.02.020",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.02.020",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.02|10.02.020|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.02.030",
+      "ptag": "section",
+      "cite": "Section 10.02.030",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.02.030",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.02|10.02.030|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.02.040",
+      "ptag": "section",
+      "cite": "Section 10.02.040",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.02.040",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.02|10.02.040|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.02.050",
+      "ptag": "section",
+      "cite": "Section 10.02.050",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.02.050",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.02|10.02.050|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.02.060",
+      "ptag": "section",
+      "cite": "Section 10.02.060",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.02.060",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.02|10.02.060|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.03.010",
+      "ptag": "section",
+      "cite": "Section 10.03.010",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.03.010",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.03|10.03.010|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.03.020",
+      "ptag": "section",
+      "cite": "Section 10.03.020",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.03.020",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.03|10.03.020|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.03.030",
+      "ptag": "section",
+      "cite": "Section 10.03.030",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.03.030",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.03|10.03.030|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.03.040",
+      "ptag": "section",
+      "cite": "Section 10.03.040",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.03.040",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.03|10.03.040|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.04.010",
+      "ptag": "section",
+      "cite": "Section 10.04.010",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.04.010",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.04|10.04.010|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.04.020",
+      "ptag": "section",
+      "cite": "Section 10.04.020",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.04.020",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.04|10.04.020|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.04.030",
+      "ptag": "section",
+      "cite": "Section 10.04.030",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.04.030",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.04|10.04.030|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.04.040",
+      "ptag": "section",
+      "cite": "Section 10.04.040",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.04.040",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.04|10.04.040|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.04.050",
+      "ptag": "section",
+      "cite": "Section 10.04.050",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.04.050",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.04|10.04.050|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Tribal Code",
+      "path": "|10.05.010",
+      "ptag": "section",
+      "cite": "Section 10.05.010",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/tmchippewa/council/code/10.05.010",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Tribal Code|10|10.05|10.05.010|",
+      "lib_mpath": "tmchippewa/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "us/nsn/tmchippewa/council/resolutions",
+      "url": "/us/nsn/tmchippewa/council/resolutions",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|",
+      "docs_changes": {},
+      "colls_changes": {
+        "2025": "Element added"
+      },
+      "ptag": "collection"
+    },
+    {
+      "statuses": [
+        "Element added"
+      ],
+      "name": "2025",
+      "url": "/us/nsn/tmchippewa/council/resolutions/2025",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2025|",
+      "docs_changes": {
+        "Turtle Mountain Band of Chippewa Indians Res. No. 512-07-25": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 512-07-25",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2025/512-07-25",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 512-07-25|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2025|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-04-01",
+  "codified_date": "2025-07-24",
+  "reasons": {
+    "Turtle Mountain Band of Chippewa Indians Res. No. 512-07-25": [
+      "created"
+    ]
+  }
+}
