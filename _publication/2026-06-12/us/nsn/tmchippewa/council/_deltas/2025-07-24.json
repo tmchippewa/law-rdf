@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2025",
+      "url": "/us/nsn/tmchippewa/council/resolutions/2025",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2025|",
+      "docs_changes": {
+        "Turtle Mountain Band of Chippewa Indians Res. No. 512-07-25": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Turtle Mountain Band of Chippewa Indians Res. No. 512-07-25",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/tmchippewa/council/resolutions/2025/512-07-25",
+      "doc_mpath": "Turtle Mountain Band of Chippewa Indians Res. No. 512-07-25|",
+      "lib_mpath": "tmchippewa/law-rdf|us/nsn/tmchippewa/council/resolutions|2025|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-06-12",
+  "codified_date": "2025-07-24",
+  "reasons": {
+    "Turtle Mountain Band of Chippewa Indians Res. No. 512-07-25": [
+      "created"
+    ]
+  }
+}
